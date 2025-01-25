@@ -1,2 +1,6 @@
 # clickup-mini-project
-https://doc.clickup-stg.com/333/p/h/ad-78001/2588cc8ad881465
+Get started with this repo by cloning it.
+
+```
+git clone git@github.com:venissafernandes/clickup-mini-project.git
+```
